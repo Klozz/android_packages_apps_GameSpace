@@ -39,8 +39,6 @@
     <string name="fps_Info_title">FPS bilgisi</string>
     <string name="stay_awake_title">Uyanık Kal</string>
     <string name="stay_awake_summary">Oyundayken ekranı uyanık tutun</string>
-    <string name="lock_gesture_title">Kilit hareketi</string>
-    <string name="lock_gesture_summary">Oyundayken gezinme (geri ve ana ekran) kaydırma hareketlerini devre dışı bırakın</string>
     <string name="ringer_mode_title">Zil sesi modu</string>
     <string name="ringer_mode_silent">Sessiz</string>
     <string name="ringer_mode_vibrate">Titreşim</string>
