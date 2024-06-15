@@ -39,8 +39,6 @@
     <string name="fps_Info_title">Info FPS</string>
     <string name="stay_awake_title">Tetap terjaga</string>
     <string name="stay_awake_summary">Jaga agar layar tetap terjaga saat dalam game</string>
-    <string name="lock_gesture_title">Kunci gestur</string>
-    <string name="lock_gesture_summary">Nonaktifkan gestur navigasi (gestur kembali dan beranda) saat dalam game</string>
     <string name="ringer_mode_title">Mode dering</string>
     <string name="ringer_mode_silent">Senyap</string>
     <string name="ringer_mode_vibrate">Getar</string>
@@ -68,4 +66,12 @@
     <string name="notification_mode_title">Mode notifikasi</string>
     <string name="notification_mode_hide">Jangan tampilkan</string>
     <string name="notification_mode_reticker">Muncul sebagai reTicker</string>
+    <string name="state_enabled">Diaktifkan</string>
+    <string name="state_disabled">Dinonaktifkan</string>
+    <string name="in_game_calls_title">Mode panggilan</string>
+    <string name="in_game_calls_no_action">Tidak ada tindakan</string>
+    <string name="in_game_calls_auto_answer">Jawab otomatis</string>
+    <string name="in_game_calls_auto_reject">Tolak otomatis</string>
+    <string name="in_game_calls_received_number">Menerima panggilan dari %1$s</string>
+    <string name="in_game_calls_rejected_number">Menolak panggilan dari %1$s</string>
 </resources>

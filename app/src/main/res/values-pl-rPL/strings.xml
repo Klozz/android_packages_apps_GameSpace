@@ -39,8 +39,6 @@
     <string name="fps_Info_title">Wskaźnik FPS</string>
     <string name="stay_awake_title">Zostaw włączony</string>
     <string name="stay_awake_summary">Nie wyłączaj ekranu podczas gry</string>
-    <string name="lock_gesture_title">Gest blokady</string>
-    <string name="lock_gesture_summary">Wyłącz gesty nawigacji (przesuń wstecz i do domu) podczas gry</string>
     <string name="ringer_mode_title">Rodzaj dzwonka</string>
     <string name="ringer_mode_silent">Wyciszony</string>
     <string name="ringer_mode_vibrate">Wibracje</string>
