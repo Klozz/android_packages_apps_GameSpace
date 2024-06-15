@@ -39,8 +39,6 @@
     <string name="fps_Info_title">Info FPS</string>
     <string name="stay_awake_title">Rimani attivo</string>
     <string name="stay_awake_summary">Mantieni lo schermo acceso mentre sei in gioco</string>
-    <string name="lock_gesture_title">Gesture di blocco</string>
-    <string name="lock_gesture_summary">Disabilita i gesti di navigazione (scorrimento per andare alla home e per tornare indietro) mentre giochi</string>
     <string name="ringer_mode_title">Modalità suoneria</string>
     <string name="ringer_mode_silent">Silenzioso</string>
     <string name="ringer_mode_vibrate">Vibrazione</string>
