@@ -38,8 +38,6 @@
     <string name="fps_Info_title">幀數</string>
     <string name="stay_awake_title">螢幕保持開啟</string>
     <string name="stay_awake_summary">在遊戲中時使螢幕保持開啟狀態</string>
-    <string name="lock_gesture_title">鎖定手勢</string>
-    <string name="lock_gesture_summary">在遊戲中暫時停用導覽手勢</string>
     <string name="ringer_mode_title">鈴聲模式</string>
     <string name="ringer_mode_silent">靜音</string>
     <string name="ringer_mode_vibrate">震動</string>
